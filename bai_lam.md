@@ -1,10 +1,10 @@
 # BÀI LÀM – HACKATHON 02
 
 - **Mã đề:** 01
-- **Họ tên:**
-- **Lớp:**
-- **Link repository:**
-- **Hệ điều hành (Windows/macOS):**
+- **Họ tên:** Vũ Lê Huy
+- **Lớp:** CNTT1 
+- **Link repository:** https://github.com/vulehuy210408-jpg/-CNTT1-_Nhap_Mon_CNTT_Hackathon2.git
+- **Hệ điều hành (Windows/macOS):** Windown
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
 
@@ -12,6 +12,13 @@
 
 ```shell
 # Ghi lần lượt các lệnh đã chạy, mỗi lệnh một dòng
+pwd 
+cd 
+ls
+rm
+mv
+mikdir
+
 
 ```
 
